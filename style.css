@@ -2,5 +2,5 @@ p1.header {
     color: brown;
     font-size: larger;
     font-weight: bold;
-    align-content: center;
+    text-align: center;
 }
