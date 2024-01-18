@@ -5,7 +5,7 @@ p1.header {
     text-align: center;
 }
 
-/* h1 {
+h1 {
     text-align: center;
      color: maroon;
  }
@@ -23,7 +23,7 @@ p1.header {
 
 
 
-/* 
+
  h1 {
     text-align: center;
     color: maroon;
@@ -52,11 +52,11 @@ p.medio {
 p.final {
     position: relative;
     text-align: right;
-} */
+} 
 
 
 
-/* h1 {
+h1 {
     text-align: center;
     color: maroon;
 }
@@ -70,9 +70,9 @@ div.fondo {
 
 p {
     color: brown;
-} */
+} 
 
-/* div {
+div {
     background-color: bisque;
     width: 1570px;
     height: 750px;
@@ -80,4 +80,4 @@ p {
 
 a {
     color: brown;
-} */
+}
