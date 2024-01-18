@@ -5,40 +5,15 @@ p1.header {
     text-align: center;
 }
 
-h1 {
-    text-align: center;
-     color: maroon;
- }
- 
- p {
-     color: brown;
- }
- 
- div {
-     background-color: bisque;
-     width: 1570px;
-     height: 750px;
- } */
-
-
-
-
-
- h1 {
-    text-align: center;
-    color: maroon;
-}
-
-div.fondo {
-    background-color: bisque;
-    width: 1570px;
-    height: 750px;
-}
-
 a {
     color: brown;
 }
-
+p {
+    color: brown;
+}
+.brown {
+    color: brown;
+}
 p.inicio {
     position: relative;
     text-align: left;
@@ -53,31 +28,3 @@ p.final {
     position: relative;
     text-align: right;
 } 
-
-
-
-h1 {
-    text-align: center;
-    color: maroon;
-}
-
-
-div.fondo {
-    background-color: bisque;
-    width: 1570px;
-    height: 750px;
-}
-
-p {
-    color: brown;
-} 
-
-div {
-    background-color: bisque;
-    width: 1570px;
-    height: 750px;
-}
-
-a {
-    color: brown;
-}
